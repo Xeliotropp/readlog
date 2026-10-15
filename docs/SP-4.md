@@ -2,3 +2,6 @@
 
 ## Описание
 add edit form
+
+## Допълнение
+update list after edit
