@@ -2,3 +2,6 @@
 
 ## Описание
 add reading status
+
+## Допълнение
+add status filter
