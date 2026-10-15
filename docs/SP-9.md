@@ -2,3 +2,6 @@
 
 ## Описание
 add goal form and storage
+
+## Допълнение
+add progress bar
