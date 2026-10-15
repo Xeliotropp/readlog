@@ -2,3 +2,6 @@
 
 ## Описание
 add search field
+
+## Допълнение
+add empty result message
