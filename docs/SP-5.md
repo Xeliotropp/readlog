@@ -2,3 +2,6 @@
 
 ## Описание
 add delete button
+
+## Допълнение
+add delete confirmation
